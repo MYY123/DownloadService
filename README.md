@@ -1,2 +1,0 @@
-# wish
-new year wish
